@@ -68,7 +68,7 @@ body {
   transform: translateY(-7px);
 }
 #content {
-	padding: 200px;
+	padding: 150px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
