@@ -8,9 +8,10 @@ body {
 }
 
 #buttonStart {
-	padding: 200px;
+	margin-button: 60px;
 	text-decoration: none;
 	display: block;
+	position: fixsed;
 	top: 45%;
 	left: 45%;
 	transform: translate(-10%, -10%);
@@ -32,6 +33,7 @@ body {
 }
 
 #buttonArray {
+	margin-button: 60px;
 	text-decoration: none;
 	display: block;
 	position: fixed;
