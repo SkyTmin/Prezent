@@ -8,9 +8,9 @@ body {
 }
 
 #buttonStart {
+	padding: 200px;
 	text-decoration: none;
 	display: block;
-	position: fixed;
 	top: 45%;
 	left: 45%;
 	transform: translate(-10%, -10%);
