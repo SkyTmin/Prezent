@@ -33,7 +33,7 @@ function startAnimation() {
       audio.currentTime = 10; // устанавливаем начальную позицию воспроизведения в секундах
       audio.play(); // запускаем воспроизведение музыки
     }
-  }, 45);
+  }, 50);
 }
 
 function nextText() {
