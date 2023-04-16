@@ -45,6 +45,12 @@ body {
 	
 	
 } 
+#buttonStart:active, #buttonArray:active {
+	background: white;
+	box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+	color: #524f4e;
+ }
+ 
 #content {
 	padding: 200px 0px 100px 0px  ;
 	margin-bottom: 100px;
